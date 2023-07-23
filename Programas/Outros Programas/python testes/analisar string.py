@@ -1,0 +1,5 @@
+frase = ('Curso em Vídeo Python')
+print(frase.count('C'))
+print(len(frase))
+print(frase.find('Curso'))
+print('Curso' in frase)
